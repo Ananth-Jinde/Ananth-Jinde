@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hey 👋, I'm Anantha Sai Jinde</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -74,3 +75,21 @@ Take a look at my pinned repositories below — each one is a hands-on data engi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinde-anantha-sai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jindeananth@gmail.com)
+=======
+## Hi there 👋
+
+<!--
+**Ananth-Jinde/Ananth-Jinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a5d0d32ac66d134e8a88c5aefd74c9c34ebdd40c
