@@ -76,12 +76,6 @@ Take a look at my pinned repositories below — each one is a hands-on data engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinde-anantha-sai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jindeananth@gmail.com)
 =======
-## Hi there 👋
-
-<!--
-**Ananth-Jinde/Ananth-Jinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
