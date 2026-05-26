@@ -46,25 +46,26 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="75"/>
+  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="72"/>
   &nbsp;
-  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="75"/>
+  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="72"/>
   &nbsp;
-  <img src="Badges/microsoft-certified-power-bi-data-analyst-associate.png" alt="Power BI Data Analyst Associate" width="75"/>
+  <img src="Badges/microsoft-certified-power-bi-data-analyst-associate.png" alt="Power BI Data Analyst Associate" width="72"/>
   &nbsp;
-  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="75"/>
+  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="72"/>
   &nbsp;
-  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="75"/>
+  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="72"/>
   &nbsp;
-  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="75"/>
+  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="72"/>
   &nbsp;
-  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="75"/>
+  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="72"/>
   &nbsp;
-  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="75"/>
+  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="72"/>
+  &nbsp;
+  <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="72"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📂 Explore My Work
 
 Take a look at my pinned repositories below — each one is a hands-on data engineering project built from scratch.
