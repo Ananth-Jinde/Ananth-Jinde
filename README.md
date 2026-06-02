@@ -46,9 +46,9 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="72"/>
-  &nbsp;
   <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="72"/>
+  &nbsp;
+  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="72"/>
   &nbsp;
   <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="72"/>
   &nbsp;
