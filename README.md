@@ -52,8 +52,6 @@
   &nbsp;
   <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="72"/>
   &nbsp;
-  <img src="Badges/microsoft-certified-power-bi-data-analyst-associate.png" alt="Power BI Data Analyst Associate" width="72"/>
-  &nbsp;
   <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="72"/>
   &nbsp;
   <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="72"/>
