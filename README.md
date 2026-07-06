@@ -26,14 +26,14 @@ and building <b>end-to-end data engineering projects</b> from scratch.<br/><br/>
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="100"/>&nbsp;&nbsp;
-  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="100"/>
+  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="90"/>
+  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="90"/>
+  <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="90"/>
+  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="90"/>
+  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="90"/>
+  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="90"/>
+  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="90"/>
+  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="90"/>
 </p>
 
 ---
@@ -107,20 +107,6 @@ and building <b>end-to-end data engineering projects</b> from scratch.<br/><br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananth-Jinde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth-Jinde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananth-Jinde&theme=tokyonight&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=FF6D00&currStreakLabel=dc2626" width="55%" alt="GitHub Streak"/>
 </p>
 
 ---
