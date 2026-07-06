@@ -1,78 +1,144 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  Anantha Sai Jinde — Azure Data Engineer · GitHub Profile README  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hey 👋, I'm Anantha Sai Jinde</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:450a0a,100:dc2626&height=220&section=header&text=Anantha%20Sai%20Jinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Azure%20Data%20Engineer&descSize=20&descAlignY=52&descColor=f87171" alt="Header"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&random=false&width=650&height=30&lines=Building+Scalable+Data+Platforms+on+Azure;From+Raw+Data+to+Real+Insights;Pipelines+that+Scale+%C2%B7+Monitor+%C2%B7+Self-Recover;Exploring+AI+%C3%97+Data+Engineering;Automating+Data+Workflows+End+to+End" alt="Typing SVG" />
+  </a>
+</p>
 
-<p>Azure Data Engineer who enjoys building reliable, scalable data systems on the cloud. I spend most of my time working with Azure Data Factory, Databricks, PySpark, and SQL — engineering data pipelines, writing transformation logic, and figuring out ways to make things run smoother and faster. When I'm not working on production systems, I like picking up real-world datasets and building end-to-end data engineering projects from scratch.</p>
+<br/>
 
-<p>Lately, I've been curious about how data engineering and AI come together — and that's the direction I'm heading next.</p>
+<p align="center">
+Azure Data Engineer who enjoys building <b>reliable, scalable data systems</b> on the cloud.<br/>
+I spend most of my time working with <b>Azure Data Factory</b>, <b>Databricks</b>, <b>PySpark</b>, and <b>SQL</b> —<br/>
+engineering data pipelines, writing transformation logic, and figuring out ways to make things run smoother and faster.<br/><br/>
+When I'm not working on production systems, I like picking up real-world datasets<br/>
+and building <b>end-to-end data engineering projects</b> from scratch.<br/><br/>
+<i>Lately, I've been curious about how <b>data engineering and AI</b> come together — and that's the direction I'm heading next.</i>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Tech Stack
-
-**Languages & Processing**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**Azure Cloud & Data Services**
-
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Azure Logic Apps](https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Data Engineering & Architecture**
-
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Live Tables](https://img.shields.io/badge/Delta_Live_Tables-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-2E86C1?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**DevOps & Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="72"/>
-  &nbsp;
-  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="72"/>
-  &nbsp;
-  <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="72"/>
-  &nbsp;
-  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="72"/>
-  &nbsp;
-  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="72"/>
-  &nbsp;
-  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="72"/>
-  &nbsp;
-  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="72"/>
-  &nbsp;
-  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="72"/>
+  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="100"/>&nbsp;&nbsp;
+  <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="100"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📂 Explore My Work
+## 🏗️ Featured Projects
 
-Take a look at my pinned repositories below — each one is a hands-on data engineering project built from scratch.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### <img src="https://img.shields.io/badge/01-DC2626?style=flat-square" alt="01"/> &nbsp; E-Commerce Data Lakehouse Platform
 
-## 📫 Connect With Me
+> A production-grade data engineering platform on Azure — two heterogeneous SQL sources with different schemas, unified through the Medallion Architecture into an analytics-ready star schema.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinde-anantha-sai/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jindeananth@gmail.com)
-=======
+<p align="center">
+  <a href="https://github.com/Ananth-Jinde/E-commerce-Data-Lakehouse-Platform">
+    <img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/02-DC2626?style=flat-square" alt="02"/> &nbsp; Credit Risk Analytics Platform
+
+> An end-to-end data engineering pipeline on Azure Databricks — processing 2.2M+ consumer loan records through the Medallion Architecture, producing credit risk scores and letter grades for every borrower.
+
+<p align="center">
+  <a href="https://github.com/Ananth-Jinde/Credit-Risk-Analytics">
+    <img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/03-DC2626?style=flat-square" alt="03"/> &nbsp; ADF-Databricks Monitoring Automation
+
+> An automated monitoring platform for Azure Data Factory pipelines and Databricks jobs — real-time failure detection, Teams alerting, and Power BI dashboards for execution analytics.
+
+<p align="center">
+  <a href="https://github.com/Ananth-Jinde/ADF-Databricks-Monitoring-Automation">
+    <img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+🌱 How **AI and Data Engineering** converge — building smarter, self-optimizing pipelines
+
+📐 Advanced **data quality frameworks** and observability patterns
+
+🔄 **Real-time streaming** architectures with Spark Structured Streaming
+
+</div>
+
+---
+
+## ⚡ Core Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2"/>
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Azure Functions"/>
+  <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Azure SQL"/>
+  <img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Logic Apps"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananth-Jinde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth-Jinde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananth-Jinde&theme=tokyonight&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=FF6D00&currStreakLabel=dc2626" width="55%" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jinde-anantha-sai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jindeananth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>If you find something interesting in my repos, feel free to ⭐ it or reach out — always happy to talk data engineering.</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:450a0a,100:0d1117&height=120&section=footer" alt="Footer"/>
