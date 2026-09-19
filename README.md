@@ -23,47 +23,9 @@ and building <b>end-to-end data engineering projects</b> from scratch.<br/><br/>
 
 ---
 
----
----
-
----
-
 ## 🏅 Certifications
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="Badges/Professional badge.png" alt="Databricks Certified Data Engineer Professional" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/Data Engineer Associate.png" alt="Databricks Certified Data Engineer Associate" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/Microsoft Certified Azure Databricks Data Engineer Associate.png" alt="Microsoft Certified Azure Databricks Data Engineer Associate" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/associate-cloud-engineer-certification.png" alt="Google Cloud Associate Cloud Engineer" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="90"/>
-    </td>
-    <td align="center">
-      <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="90"/>
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="Badges/Professional badge.png" alt="Databricks Certified Data Engineer Professional" width="85"/> <img src="Badges/Data Engineer Associate.png" alt="Databricks Certified Data Engineer Associate" width="85"/> <img src="Badges/Microsoft Certified Azure Databricks Data Engineer Associate.png" alt="Microsoft Certified Azure Databricks Data Engineer Associate" width="85"/> <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="85"/> <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="85"/> <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="85"/> <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="85"/> <img src="Badges/associate-cloud-engineer-certification.png" alt="Google Cloud Associate Cloud Engineer" width="85"/> <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="85"/> <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="85"/></p>
 
 ---
 
