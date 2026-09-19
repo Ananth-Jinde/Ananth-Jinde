@@ -23,16 +23,39 @@ and building <b>end-to-end data engineering projects</b> from scratch.<br/><br/>
 
 ---
 
+---
+
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Azure Data Engineer Associate" width="90"/>
-  <img src="Badges/Data Engineer Associate.png" alt="Databricks Data Engineer Associate" width="90"/>
+  <!-- 1. Databricks Certified Data Engineer Professional -->
+  <img src="Badges/Data Engineer Professional.png" alt="Databricks Certified Data Engineer Professional" width="90"/>
+
+  <!-- 2. Databricks Certified Data Engineer Associate -->
+  <img src="Badges/Data Engineer Associate.png" alt="Databricks Certified Data Engineer Associate" width="90"/>
+
+  <!-- 3. Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) -->
+  <img src="Badges/microsoft-certified-azure-databricks-data-engineer-associate.png" alt="Microsoft Certified Azure Databricks Data Engineer Associate" width="90"/>
+
+  <!-- 4. Microsoft Certified: Azure Data Engineer Associate -->
+  <img src="Badges/microsoft-certified-azure-data-engineer-associate.png" alt="Microsoft Certified Azure Data Engineer Associate" width="90"/>
+
+  <!-- 5. Claude Certified Architect - Foundations -->
   <img src="Badges/Claude Ceritifed Architect - Foundations.png" alt="Claude Certified Architect Foundations" width="90"/>
-  <img src="Badges/associate-cloud-engineer-certification.png" alt="GCP Associate Cloud Engineer" width="90"/>
-  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="90"/>
-  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="90"/>
+
+  <!-- 6. Microsoft Certified: Azure Data Fundamentals -->
+  <img src="Badges/microsoft-certified-azure-data-fundamentals.png" alt="Microsoft Certified Azure Data Fundamentals" width="90"/>
+
+  <!-- 7. Microsoft Certified: Azure Fundamentals -->
+  <img src="Badges/microsoft-certified-azure-fundamentals.png" alt="Microsoft Certified Azure Fundamentals" width="90"/>
+
+  <!-- 8. Google Cloud Associate Cloud Engineer -->
+  <img src="Badges/associate-cloud-engineer-certification.png" alt="Google Cloud Associate Cloud Engineer" width="90"/>
+
+  <!-- 9. GitHub Foundations -->
   <img src="Badges/github-foundations.png" alt="GitHub Foundations" width="90"/>
+
+  <!-- 10. GitHub Copilot -->
   <img src="Badges/github-copilot.png" alt="GitHub Copilot" width="90"/>
 </p>
 
